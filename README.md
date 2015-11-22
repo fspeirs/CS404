@@ -1,6 +1,6 @@
 # CS404
 Code Repository for CS404 Introduction to Python Programming.
 
-Author: Fraser Speirs <fs@cedars.inverclyde.sch.uk>
+This is a course taught at Cedars School of Excellence, Greenock, Scotland.
 
-Test!
+Author: Fraser Speirs <fs@cedars.inverclyde.sch.uk>

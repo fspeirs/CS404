@@ -18,12 +18,14 @@
 #
 # 	Your function should print "OK" if the user enters the right character and "Wrong!" if they enter the wrong one.
 #-------------------------------------------
+From random import *
 
 # Complete the function:
 def check_password(input_password):
 	# code here
 
-
+def main():
+	check_password("Hubnet9901")
 
 #-------------------------------------------
 # DO NOT EDIT BELOW THIS LINE
